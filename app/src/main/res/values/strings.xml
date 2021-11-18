@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapMaravillas</string>
+    <string name="title_activity_turistico">Map</string>
+    <string name="title_activity_mantiguo">Map</string>
+    <string name="title_activity_mmoderno">Map</string>
+    <string name="title_activity_mapa_rutas">Map</string>
+</resources>
